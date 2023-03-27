@@ -1,0 +1,28 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background { 
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+
+}
+
+
+
+#myCanvas{
+	border-width: 20px;
+	background-color: white;
+	border-style: ridge;
+}
+
+#button1 {
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+}
+input {
+	margin-right: 20px;
+}
